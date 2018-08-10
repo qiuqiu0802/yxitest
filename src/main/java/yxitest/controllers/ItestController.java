@@ -68,7 +68,7 @@ public class ItestController {
 		model.addAttribute("val", "aaaa");
 		// model.addAttribute(new InterfaceName());
 		// System.out.println("接收到数据。。。。。。"+new InterfaceName().getStrname());
-
+  
 		return "itestGetInterfaceName";
 	}
 
